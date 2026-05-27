@@ -10,7 +10,6 @@
     "codegen": "graphql-codegen"
   },
   "dependencies": {
-    "-": "^0.0.1",
     "@apollo/client": "^3.7.14",
     "@graphql-codegen/cli": "^3.3.1",
     "@graphql-codegen/fragment-matcher": "^4.0.1",
